@@ -1,4 +1,4 @@
-#terraform instance creation for the 
+#AWS instance creation by using terraform #
  provider "aws" {
     region= "ap-south-1"
 }
