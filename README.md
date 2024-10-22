@@ -1,4 +1,7 @@
 #AWS instance creation by using terraform #
+
+
+
  provider "aws" {
     region= "ap-south-1"
 }
